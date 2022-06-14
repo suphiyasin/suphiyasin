@@ -2,7 +2,7 @@
 
 <center>
 
-<h1 align="center">Hi 👋, I'm suphiyasin</h1>
+<h1 align="center">Hi 👋, I'm Suphi Yasin</h1>
 <h3 align="center">A passionate Backend developer from turkey</h3>
 
 <h3 align="">Connect with me:</h3>
